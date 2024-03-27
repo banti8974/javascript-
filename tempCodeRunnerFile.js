@@ -1,3 +1,3 @@
-console.log(myDate.toString())
-// console.log(myDate.toLocaleDateString())
-// console.log(typeof myDate)
+user.welcomeMessage()
+user.username="sam"
+user.welcomeMessage()
